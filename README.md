@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamiloCCarvalho
+- 👋 Hi, I’m Camilo Costa C.
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP, Java, Python
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
 - 💞️ I’m looking to collaborate on anything
