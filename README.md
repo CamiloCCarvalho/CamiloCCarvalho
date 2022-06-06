@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Camilo Costa C.
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP, Java, Python
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
-- 💞️ I’m looking to collaborate on anything
-- 📫
+# Camilo Costa de Carvalho
+
+    👋 Hi, everyone !
+    👀 I’m interested in HTML, CSS, JavaScript, PHP, Java, Python
+    🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+    💞️ I’m looking to collaborate on anything
 
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
