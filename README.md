@@ -1,8 +1,8 @@
 # Camilo Costa de Carvalho
 
     👋 Hi, everyone !
-    👀 I’m interested in HTML, CSS, JavaScript, PHP, Java, Python
-    🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+    👀 I’m interested in HTML, CSS, JavaScript, Vue.js and TailWind
+    🌱 I’m currently learning HTML, CSS, JavaScript
     💞️ I’m looking to collaborate on anything
 
 <!---
