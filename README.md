@@ -1,8 +1,8 @@
 # Camilo Costa de Carvalho
 
     👋 Hi, everyone !
-    👀 I’m interested in HTML, CSS, JavaScript, Vue.js and TailWind
-    🌱 I’m currently learning HTML, CSS, JavaScript
+    👀 I’m interested in FRONT-END DEVELOPER GUIDELINE
+    🌱 I’m currently learning HTML Semantics, CSS Grid and Animations, and Algorithms JS
     💞️ I’m looking to collaborate on anything
 
 <!---
