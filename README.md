@@ -32,10 +32,9 @@
 ## TECNOLOGIAS:
 Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.
 
-TECNOLOGIA|TECNOLOGIA|TECNOLOGIA|TECNOLOGIA
+HTML|CSS|JAVASCRIPT|SASS
 | --------- | --------- | --------- | --------- |
-HTML|CSS|JS|.SASS
-conhecimento|conhecimento|conhecimento|conhecimento
+CONHECIMENTO|CONHECIMENTO|CONHECIMENTO|CONHECIMENTO
 Conheço a maioria das tags ✔️|Flex-Box✔️|Sintaxe, Variaveis, Escopo, Arrays✔️|Variaveis, Operadores✔️
 Arvore DOM para manipulação com JS ✔️|Grid-Layout✔️|Operadores e Funções✔️|Aninhamento✔️
 Semântica HTML para otimizar SEO ✔️|Responsividade✔️|Hoisting, Manipulação de Dados✔️|Importação, Mixins✔️
