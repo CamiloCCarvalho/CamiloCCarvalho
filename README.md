@@ -28,8 +28,11 @@
  > React: Em aprendizagem :warning:
  > 
  > Express: Em aprendizagem :warning: 
+
 <br>
+
 ## TECNOLOGIAS:
+
 Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.
 
 HTML|CSS|JAVASCRIPT|SASS
