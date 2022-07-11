@@ -33,9 +33,9 @@
 
 <br>
 
-<h align="center">TECNOLOGIAS:</h>
+<h2 align="center">TECNOLOGIAS:</h2>
 
-<p align="justify>"Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
+<p align="justify">Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
 
 HTML|CSS|JAVASCRIPT|SASS
 | --------- | --------- | --------- | --------- |
