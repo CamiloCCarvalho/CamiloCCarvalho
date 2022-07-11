@@ -35,6 +35,7 @@ Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnolo
 HTML|CSS|JAVASCRIPT|SASS
 | --------- | --------- | --------- | --------- |
 CONHECIMENTO|CONHECIMENTO|CONHECIMENTO|CONHECIMENTO
+| --------- | --------- | --------- | --------- |
 Conheço a maioria das tags ✔️|Flex-Box✔️|Sintaxe, Variaveis, Escopo, Arrays✔️|Variaveis, Operadores✔️
 Arvore DOM para manipulação com JS ✔️|Grid-Layout✔️|Operadores e Funções✔️|Aninhamento✔️
 Semântica HTML para otimizar SEO ✔️|Responsividade✔️|Hoisting, Manipulação de Dados✔️|Importação, Mixins✔️
