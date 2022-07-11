@@ -10,14 +10,23 @@
   Eu em ambito social sou pouco social, um pouco introvertido, porem não muito tímido, apaixonado por desenhos, mangás, animações 2D e 3D, sou desenhista iniciante/intermediario e também tatuador, artes que pratico como hobbie.
   
  ## STACKS:
+ 
  > HTML: :heavy_check_mark:
+ > 
  > CSS: :heavy_check_mark:
+ > 
  > JS: :heavy_check_mark:
+ > 
  > .SASS: :heavy_check_mark:
+ > 
  > Git/GitHub: :heavy_check_mark:
+ > 
  > Node.JS: Em aprendizagem :warning:
+ > 
  > BootStrap: Em aprendizagem :warning:
+ > 
  > React: Em aprendizagem :warning:
+ > 
  > Express: Em aprendizagem :warning: 
 
 <!---
