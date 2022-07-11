@@ -33,7 +33,8 @@
 Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.
 
 TECNOLOGIAS
-| ------ | ------ | ------ | ------ |
+
+| --------- | --------- | --------- | --------- |
 HTML|CSS|JS|.SASS
 Conheço a maioria das tags ✔️|Flex-Box✔️|Sintaxe, Variaveis, Escopo, Arrays✔️|Variaveis, Operadores✔️
 Arvore DOM para manipulação com JS ✔️|Grid-Layout✔️|Operadores e Funções✔️|Aninhamento✔️
