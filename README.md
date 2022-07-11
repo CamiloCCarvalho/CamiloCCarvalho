@@ -8,7 +8,9 @@
  
  ## Pessoal:
   Eu em ambito social sou pouco social, um pouco introvertido, porem não muito tímido, apaixonado por desenhos, mangás, animações 2D e 3D, sou desenhista iniciante/intermediario e também tatuador, artes que pratico como hobbie.
+  
 <br>
+
  ## STACKS:
  
  > HTML: :heavy_check_mark:
@@ -31,9 +33,9 @@
 
 <br>
 
-## TECNOLOGIAS:
+<h align="center">TECNOLOGIAS:</h>
 
-Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.
+<p align="justify>"Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
 
 HTML|CSS|JAVASCRIPT|SASS
 | --------- | --------- | --------- | --------- |
