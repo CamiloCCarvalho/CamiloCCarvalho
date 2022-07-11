@@ -29,6 +29,17 @@
  > 
  > Express: Em aprendizagem :warning: 
 
+## TECNOLOGIAS:
+Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.
+
+TECNOLOGIAS
+| ------ | ------ | ------ | ------ |
+HTML|CSS|JS|.SASS
+Conheço a maioria das tags ✔️|Flex-Box✔️|Sintaxe, Variaveis, Escopo, Arrays✔️|Variaveis, Operadores✔️
+Arvore DOM para manipulação com JS ✔️|Grid-Layout✔️|Operadores e Funções✔️|Aninhamento✔️
+Semântica HTML para otimizar SEO ✔️|Responsividade✔️|Hoisting, Manipulação de Dados✔️|Importação, Mixins✔️
+Boas praticas ✔️|shortHands, e boas praticas✔️|Eventos de página✔️|Funções✔️
+
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
