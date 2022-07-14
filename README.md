@@ -6,7 +6,6 @@
 ## Sobre:
  Eu sou um curioso por natureza, cabeça dura, quando decido gostar de algo mesmo que não tenha uma vocação muito grande para algo, eu costumo consumir aquilo como conteudo sem parar. Apaixonado por Tecnologia, desde videogames, a wearables, celulares, robos, e tudo que pode ter um chip eletronico com algum tipo de programação.
  
- ## Pessoal:
   Eu em ambito social sou pouco social, um pouco introvertido, porem não muito tímido, apaixonado por desenhos, mangás, animações 2D e 3D, sou desenhista iniciante/intermediario e também tatuador, artes que pratico como hobbie.
   
 <br>
