@@ -22,9 +22,15 @@
  > 
  > Git/GitHub: :heavy_check_mark:
  > 
- > Node.JS: Em aprendizagem :warning:
+ > Node.JS: :heavy_check_mark:
  > 
- > BootStrap: Em aprendizagem :warning:
+ > BootStrap: :heavy_check_mark:
+ > 
+ > Babel: :heavy_check_mark:
+ > 
+ > WebPack: :heavy_check_mark:
+ > 
+ > APIs REST: :heavy_check_mark:
  > 
  > React: Em aprendizagem :warning:
  > 
