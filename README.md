@@ -32,30 +32,33 @@
 <a href="https://sass-lang.com/">
  <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
 </a>
-
- ## STACKS:
- - [x] HTML5
- - [x] CSS3
- - [x] JavaScript
- - [x] Sass/Scss
- - [x] Bulma
- - [x] BootStrap
- - [x] Git/GitHub
- - [x] Npm
- - [x] Node
- - [x] Babel
- - [x] Webpack
- - [x] REST APIs
- - [ ] React
- - [ ] Express
- - [ ] MongoDB
- - [ ] SQL
- - [ ] Dominar o mundo
+<a href="https://getbootstrap.com/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
+</a>
+<a href="https://www.npmjs.com/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
+</a>
+<a href="https://nodejs.org/pt-br/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
+</a>
+<a href="https://babeljs.io/">
+ <img width="56" height="56" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg"> 
+</a>
+<a href="https://webpack.js.org/">
+ <img src="https://img.icons8.com/color/48/000000/webpack.png"> 
+</a>
+<a href="https://git-scm.com/">
+ <img src="https://img.icons8.com/color/48/000000/git.png"> 
+</a>
+<a href="https://github.com/">
+ <img src="https://img.icons8.com/color/48/000000/github--v1.png"> 
+</a>
  
  
-<br>
+</br>
+</br>
 
-<h2 align="center">TECNOLOGIAS:</h2>
+<h3>TECNOLOGIAS:</h3>
 
 <p align="justify">Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
 
