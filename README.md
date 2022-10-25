@@ -16,10 +16,21 @@
   - **Email**: camilo.costa1993@gmail.com
   - **Whatsapp**: (12) 98290-3495
 - :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
+</br>
 
 ### Linguagens | Stacks | Ferramentas:
+
 <a href="https://www.w3schools.com/html/">
- <img src="https://user-images.githubusercontent.com/106208340/197863766-1caba60b-e4c1-4294-8dc1-cfb0e1d612d7.png"> 
+ <img src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
+</a>
+<a href="https://www.w3schools.com/css/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
+</a>
+<a href="https://www.javascript.com/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+</a>
+<a href="https://sass-lang.com/">
+ <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
 </a>
 
  ## STACKS:
