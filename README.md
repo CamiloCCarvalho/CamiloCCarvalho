@@ -25,6 +25,10 @@
  > Node.JS: :heavy_check_mark:
  > 
  > BootStrap: :heavy_check_mark:
+ >
+ > Bulma: :heavy_check_mark:
+ > 
+ > NPM: :heavy_check_mark:
  > 
  > Babel: :heavy_check_mark:
  > 
