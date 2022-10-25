@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Camilo Costa de Carvalho</h1>
 
 ## Foco: 
@@ -11,35 +13,25 @@
 <br>
 
  ## STACKS:
+ - [x] HTML5
+ - [x] CSS3
+ - [x] JavaScript
+ - [x] Sass/Scss
+ - [x] Bulma
+ - [x] BootStrap
+ - [x] Git/GitHub
+ - [x] Npm
+ - [x] Node
+ - [x] Babel
+ - [x] Webpack
+ - [x] REST APIs
+ - [ ] React
+ - [ ] Express
+ - [ ] MongoDB
+ - [ ] SQL
+ - [ ] Dominar o mundo
  
- > HTML: :heavy_check_mark:
- > 
- > CSS: :heavy_check_mark:
- > 
- > JS: :heavy_check_mark:
- > 
- > .SASS: :heavy_check_mark:
- > 
- > Git/GitHub: :heavy_check_mark:
- > 
- > Node.JS: :heavy_check_mark:
- > 
- > BootStrap: :heavy_check_mark:
- >
- > Bulma: :heavy_check_mark:
- > 
- > NPM: :heavy_check_mark:
- > 
- > Babel: :heavy_check_mark:
- > 
- > WebPack: :heavy_check_mark:
- > 
- > APIs REST: :heavy_check_mark:
- > 
- > React: Em aprendizagem :warning:
- > 
- > Express: Em aprendizagem :warning: 
-
+ 
 <br>
 
 <h2 align="center">TECNOLOGIAS:</h2>
