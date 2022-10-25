@@ -1,11 +1,11 @@
 <p align="center">
  <a href=" ">
-  <img src="https://github.com/CamiloCCarvalho/developer/blob/main/img/octocatpersonal.jpg">
+  <img src="https://github.com/CamiloCCarvalho/developer/blob/main/img/octocatpersonal.png">
  </a>
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3> Web Dev - Em formação</h3>
+<h3 align="center"> Web Dev - Em formação</h3>
 
 <br>
 
@@ -17,7 +17,10 @@
   - **Whatsapp**: (12) 98290-3495
 - :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
 
-
+### Linguagens | Stacks | Ferramentas:
+<a href="https://www.w3schools.com/html/">
+ <img src="https://user-images.githubusercontent.com/106208340/197863766-1caba60b-e4c1-4294-8dc1-cfb0e1d612d7.png"> 
+</a>
 
  ## STACKS:
  - [x] HTML5
