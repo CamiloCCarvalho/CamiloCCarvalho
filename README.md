@@ -1,16 +1,23 @@
+<p align="center">
+ <a href=" ">
+  <img src="https://github.com/CamiloCCarvalho/developer/blob/main/img/octocatpersonal.jpg">
+ </a>
+</p>
 
-![](https://github.com/CamiloCCarvalho/developer/blob/main/img/octocatpersonal.jpg)
 <h1 align="center">Camilo Costa de Carvalho</h1>
+<h3> Web Dev - Em formação</h3>
 
-## Foco: 
- 👋 Ola! Eu sou Camilo Costa de Carvalho, atualmente aprendendo sobre programação para me tornar um Desenvolvedor Front-End com foco em FullStack no caminhar da jornada.
-
-## Sobre:
- Eu sou um curioso por natureza, cabeça dura, quando decido gostar de algo mesmo que não tenha uma vocação muito grande para algo, eu costumo consumir aquilo como conteudo sem parar. Apaixonado por Tecnologia, desde videogames, a wearables, celulares, robos, e tudo que pode ter um chip eletronico com algum tipo de programação.
- 
-  Eu em ambito social sou pouco social, um pouco introvertido, porem não muito tímido, apaixonado por desenhos, mangás, animações 2D e 3D, sou desenhista iniciante/intermediario e também tatuador, artes que pratico como hobbie.
-  
 <br>
+
+- :seedling:	Atualmente estou estudando **REST APIs e React**
+- :handshake: Estou a procura de uma oportunidade de para iniciar carreira em **Desenvolvimento Web**
+- :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **HTML/CSS**, **JS**, **Node**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
+- :email: Como me **contatar**:
+  - **Email**: camilo.costa1993@gmail.com
+  - **Whatsapp**: (12) 98290-3495
+- :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
+
+
 
  ## STACKS:
  - [x] HTML5
