@@ -10,7 +10,7 @@
 <br>
 
 - :seedling:	Atualmente estou estudando **REST APIs e React**
-- :handshake: Estou a procura de uma oportunidade de para iniciar carreira em **Desenvolvimento Web**
+- :handshake: Estou a busca de uma oportunidade para iniciar carreira em **Desenvolvimento Web**
 - :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **HTML/CSS**, **JS**, **Node**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
 - :email: Como me **contatar**:
   - **Email**: camilo.costa1993@gmail.com
