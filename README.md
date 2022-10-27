@@ -63,17 +63,33 @@
 </br>
 </br>
 
-<h3>TECNOLOGIAS:</h3>
+<h3>Meus Conhecimentos:</h3>
 
 <p align="justify">Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
 
-HTML|CSS|JAVASCRIPT|SASS
-| --------- | --------- | --------- | --------- |
-Conheço a maioria das tags ✔️|Flex-Box✔️|Sintaxe, Variaveis, Escopo, Arrays✔️|Variaveis, Operadores✔️
-Arvore DOM para manipulação com JS ✔️|Grid-Layout✔️|Operadores e Funções✔️|Aninhamento✔️
-Semântica HTML para otimizar SEO ✔️|Responsividade✔️|Hoisting, Manipulação de Dados✔️|Importação, Mixins✔️
-Boas praticas ✔️|shortHands, e boas praticas✔️|Eventos de página✔️|Funções✔️
+<h4>JavaScript ES6+</h4>
 
+- [x] Interpolação
+- [x] Operador Spread
+- [x] Rest Param
+- [x] Desestruturação por associação
+- [x] Arrow Functions
+- [x] Hoisting
+- [x] ES Modules (import / export) 
+
+<h4>HTML</h4>
+
+- [x] Semantica para SEO
+- [x] Estrutura DOM
+- [x] Boas Praticas
+
+<h4>CSS</h4>
+
+- [x] FlexBox
+- [x] GridLayout
+- [x] Media Queryies
+- [x] Responsividade
+- [x] Mobile First
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
