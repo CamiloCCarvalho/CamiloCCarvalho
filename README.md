@@ -51,8 +51,13 @@
  <img src="https://img.icons8.com/color/48/000000/git.png"> 
 </a>
 <a href="https://github.com/">
- <img src="https://img.icons8.com/color/48/000000/github--v1.png"> 
+ <img alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"> 
 </a>
+<a href="https://bulma.io/">
+ <img alt="Bulma" height="30" src="https://bulma.io/assets/Bulma%20Logo.png"> 
+</a>
+
+
  
  
 </br>
