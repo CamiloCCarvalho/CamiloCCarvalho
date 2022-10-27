@@ -77,19 +77,21 @@
 - [x] Hoisting
 - [x] ES Modules (import / export) 
 
-<h4>HTML</h4>
+<h4>HTML 5</h4>
 
 - [x] Semantica para SEO
 - [x] Estrutura DOM
 - [x] Boas Praticas
 
-<h4>CSS</h4>
+<h4>CSS 3</h4>
 
 - [x] FlexBox
 - [x] GridLayout
 - [x] Media Queryies
 - [x] Responsividade
 - [x] Mobile First
+
+
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
