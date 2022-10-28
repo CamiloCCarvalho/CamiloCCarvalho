@@ -91,6 +91,26 @@
 - [x] Responsividade
 - [x] Mobile First
 
+<h4>SASS/SCSS</h4>
+
+- [x] Variaveis com Escopo
+- [x] Mixins
+- [x] Funções
+- [x] Herança
+
+<h4>FRAMEWORKS CSS</h4>
+
+- [x] BootStrap
+- [x] Bulma
+
+<h4>LIBRARYS E TOOLS</h4>
+
+- [x] Npm
+- [x] Node
+- [x] Babel
+- [x] Webpack
+
+
 
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
