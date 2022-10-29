@@ -39,7 +39,7 @@
  <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
 </a>
 <a href="https://nodejs.org/pt-br/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
+ <img alt="Node" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
 </a>
 <a href="https://babeljs.io/">
  <img alt="Babel" width="56" height="56" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg"> 
