@@ -36,7 +36,7 @@
  <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
 </a>
 <a href="https://www.npmjs.com/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
+ <img alt="Npm" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
 </a>
 <a href="https://nodejs.org/pt-br/">
  <img alt="Node" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
