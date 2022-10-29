@@ -48,7 +48,7 @@
  <img src="https://img.icons8.com/color/48/000000/webpack.png"> 
 </a>
 <a href="https://git-scm.com/">
- <img src="https://img.icons8.com/color/48/000000/git.png"> 
+ <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"> 
 </a>
 <a href="https://github.com/">
  <img alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"> 
