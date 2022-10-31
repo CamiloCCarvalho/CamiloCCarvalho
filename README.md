@@ -27,7 +27,7 @@
  <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
 </a>
 <a href="https://www.javascript.com/">
- <img alt="Ja" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+ <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </a>
 <a href="https://sass-lang.com/">
  <img alt="Sass" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
