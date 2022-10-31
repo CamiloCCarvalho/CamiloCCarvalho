@@ -21,7 +21,7 @@
 ### Linguagens | Stacks | Ferramentas:
 
 <a href="https://www.w3schools.com/html/">
- <img src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
+ <img alt="Html" src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
 </a>
 <a href="https://www.w3schools.com/css/">
  <img alt="Css" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
