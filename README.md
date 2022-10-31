@@ -24,7 +24,7 @@
  <img src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
 </a>
 <a href="https://www.w3schools.com/css/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
+ <img alt="Css" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
 </a>
 <a href="https://www.javascript.com/">
  <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
