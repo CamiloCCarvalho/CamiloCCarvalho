@@ -27,13 +27,13 @@
  <img widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
 </a>
 <a href="https://www.javascript.com/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+ <img alt="Ja" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </a>
 <a href="https://sass-lang.com/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
+ <img alt="Sass" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
 </a>
 <a href="https://getbootstrap.com/">
- <img widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
+ <img alt="BootStrap" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
 </a>
 <a href="https://www.npmjs.com/">
  <img alt="Npm" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
