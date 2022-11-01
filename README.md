@@ -108,7 +108,7 @@
 - [x] Npm
 - [x] Node
 - [x] Babel
-- [x] Webpack 
+- [x] Webpack
 
 <h4>React Basic</h4>
 
@@ -119,6 +119,15 @@
 - [x] Routes 
 - [ ] API context
 - [ ] Others
+
+<h4>Others</h4>
+
+- [ ] VueJS
+- [ ] AngularJS
+- [ ] Express
+- [ ] MongoDB
+- [ ] Electron 
+- [ ] Dominar o Mundo
 
 
 <!---
