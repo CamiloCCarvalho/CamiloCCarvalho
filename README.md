@@ -110,6 +110,8 @@
 - [x] Node
 - [x] Babel
 - [x] Webpack
+- [ ] Sequelize
+- [ ] Express
 
 <h4>React Basic</h4>
 
@@ -126,10 +128,8 @@
 - [ ] TypeScript
 - [ ] VueJS
 - [ ] AngularJS
-- [ ] Express
 - [ ] MongoDB
 - [ ] Electron
-- [ ] Sequelize
 - [ ] Dominar o Mundo
 
 
