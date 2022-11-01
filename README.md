@@ -70,7 +70,7 @@
 <h4>JavaScript ES6+</h4>
 
 - [x] Interpolação
-- [x] Operador Spread
+- [x] Spread
 - [x] Rest Param
 - [x] Desestruturação por associação
 - [x] Arrow Functions
@@ -90,13 +90,14 @@
 - [x] Media Queryies
 - [x] Responsividade
 - [x] Mobile First
+- [ ] KeyFrames
 
 <h4>SASS/SCSS</h4>
 
-- [x] Variaveis com Escopo
+- [x] Variables
 - [x] Mixins
-- [x] Funções
-- [x] Herança
+- [x] Partials
+- [x] Extends
 
 <h4>FRAMEWORKS CSS</h4>
 
