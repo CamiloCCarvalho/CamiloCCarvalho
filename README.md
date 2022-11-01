@@ -107,6 +107,7 @@
 - [x] BootStrap
 - [x] Bulma
 - [ ] PostMan
+- [ ] ExpressJs
 
 <h4>LIBRARYS E TOOLS</h4>
 
@@ -115,7 +116,6 @@
 - [x] Babel.js
 - [x] Webpack
 - [ ] Sequelize
-- [ ] ExpressJs
 - [ ] Figma
 
 <h4>React Basic</h4>
