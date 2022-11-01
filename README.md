@@ -118,7 +118,6 @@
 - [x] useEffect
 - [x] Routes 
 - [ ] API context
-- [ ] Redux
 - [ ] Others
 
 
