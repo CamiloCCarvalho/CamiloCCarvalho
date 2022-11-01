@@ -122,11 +122,13 @@
 
 <h4>Others</h4>
 
+- [ ] TypeScript
 - [ ] VueJS
 - [ ] AngularJS
 - [ ] Express
 - [ ] MongoDB
-- [ ] Electron 
+- [ ] Electron
+- [ ] Sequelize
 - [ ] Dominar o Mundo
 
 
