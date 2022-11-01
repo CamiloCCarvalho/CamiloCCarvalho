@@ -112,6 +112,7 @@
 - [x] Webpack
 - [ ] Sequelize
 - [ ] Express
+- [ ] Figma
 
 <h4>React Basic</h4>
 
