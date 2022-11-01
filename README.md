@@ -75,12 +75,12 @@
 - [x] Desestruturação por associação
 - [x] Arrow Functions
 - [x] Hoisting
-- [x] ES Modules (import / export) 
+- [x] ES Modules
 
 <h4>HTML 5</h4>
 
-- [x] Semantica para SEO
-- [x] Estrutura DOM
+- [x] SEO
+- [x] DOM
 - [x] Boas Praticas
 
 <h4>CSS 3</h4>
@@ -111,6 +111,7 @@
 - [x] Webpack 
 
 <h4>React Basic</h4>
+
 - [x] Components
 - [x] Hooks
 - [x] useState
