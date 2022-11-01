@@ -102,19 +102,20 @@
 - [x] Partials
 - [x] Extends
 
-<h4>FRAMEWORKS CSS</h4>
+<h4>FRAMEWORKS</h4>
 
 - [x] BootStrap
 - [x] Bulma
+- [ ] PostMan
 
 <h4>LIBRARYS E TOOLS</h4>
 
 - [x] Npm
-- [x] Node
-- [x] Babel
+- [x] Node.js
+- [x] Babel.js
 - [x] Webpack
 - [ ] Sequelize
-- [ ] Express
+- [ ] ExpressJs
 - [ ] Figma
 
 <h4>React Basic</h4>
