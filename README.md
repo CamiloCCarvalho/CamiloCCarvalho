@@ -110,6 +110,15 @@
 - [x] Babel
 - [x] Webpack 
 
+<h4>React Basic</h4>
+- [x] Components
+- [x] Hooks
+- [x] useState
+- [x] useEffect
+- [x] Routes 
+- [ ] API context
+- [ ] Redux
+- [ ] Others
 
 
 <!---
