@@ -20,14 +20,17 @@
 
 ### Linguagens | Stacks | Ferramentas:
 
+<a href="https://reactjs.org/">
+ <img alt="React" src="https://user-images.githubusercontent.com/106208340/199318462-58be3b04-8c48-488f-b8c3-384afc04bfdc.png"> 
+</a>
+<a href="https://www.javascript.com/">
+ <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+</a>
 <a href="https://www.w3schools.com/html/">
  <img alt="Html" src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
 </a>
 <a href="https://www.w3schools.com/css/">
  <img alt="Css" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
-</a>
-<a href="https://www.javascript.com/">
- <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </a>
 <a href="https://sass-lang.com/">
  <img alt="Sass" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
