@@ -9,7 +9,7 @@
 
 <br>
 
-- :seedling:	Atualmente estou estudando **REST APIs e React**
+- :seedling:	Atualmente estou estudando **React e TypeScript**
 - :handshake: Estou a busca de uma oportunidade para iniciar carreira em **Desenvolvimento Web**
 - :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **HTML/CSS**, **JS**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
 - :email: Como me **contatar**:
