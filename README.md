@@ -122,9 +122,9 @@
 
 - [x] Components
 - [x] Hooks
-- [x] useState
-- [x] useEffect
-- [x] Routes 
+- [x] State
+- [x] LifeCycle
+- [x] Routes
 - [ ] API context
 - [ ] Others
 
