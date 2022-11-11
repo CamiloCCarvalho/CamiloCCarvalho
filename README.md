@@ -59,6 +59,10 @@
 <a href="https://bulma.io/">
  <img alt="Bulma" height="30" src="https://bulma.io/assets/Bulma%20Logo.png"> 
 </a>
+<a href="https://www.typescriptlang.org/">
+ <img alt="TypeScript" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
+</a>
+
 
 
  
@@ -130,7 +134,7 @@
 
 <h4>Others</h4>
 
-- [ ] TypeScript
+- [x] TypeScript
 - [ ] VueJS
 - [ ] AngularJS
 - [ ] MongoDB
