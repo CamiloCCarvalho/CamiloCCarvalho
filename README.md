@@ -57,7 +57,7 @@
  <img alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"> 
 </a>
 <a href="https://bulma.io/">
- <img alt="Bulma" height="30" src="https://bulma.io/assets/Bulma%20Logo.png"> 
+ <img alt="Bulma" height="40" src="https://github.com/CamiloCCarvalho/my-landing-page/blob/master/public/bulma-icon.png"> 
 </a>
 <a href="https://www.typescriptlang.org/">
  <img alt="TypeScript" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
