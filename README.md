@@ -26,6 +26,9 @@
 <a href="https://www.javascript.com/">
  <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </a>
+<a href="https://www.typescriptlang.org/">
+ <img alt="TypeScript" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
+</a>
 <a href="https://www.w3schools.com/html/">
  <img alt="Html" src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
 </a>
@@ -59,9 +62,7 @@
 <a href="https://bulma.io/">
  <img alt="Bulma" height="40" src="https://github.com/CamiloCCarvalho/my-landing-page/blob/master/public/bulma-icon.png"> 
 </a>
-<a href="https://www.typescriptlang.org/">
- <img alt="TypeScript" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
-</a>
+
 
 
 
