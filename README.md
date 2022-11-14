@@ -136,8 +136,6 @@
 <h4>Others</h4>
 
 - [x] TypeScript
-- [ ] VueJS
-- [ ] AngularJS
 - [ ] MongoDB
 - [ ] Electron
 - [ ] Dominar o Mundo
