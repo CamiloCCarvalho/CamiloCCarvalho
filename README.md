@@ -74,7 +74,7 @@
 
 <h3>Meus Conhecimentos:</h3>
 
-<p align="justify">Este paragrafo tem por objetivo esclarecer meu nivel de conhecimento nas tecnologias listadas, para melhorar o entendimento do que realmente consigo ou não realizar.</p>
+<p align="justify">Este paragrafo tem por objetivo Listar de forma simplificada alguns conhecimentos que eu possuo</p>
 
 <h4>JavaScript ES6+</h4>
 
