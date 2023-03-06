@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> <Front-End> - Em formação</h3>
+<h3 align="center"> Front-End - Em formação</h3>
 
 <br>
 
