@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> Front-End - Em formação</h3>
+<h3 align="center"> FullStack Javascript - Em formação</h3>
 
 <br>
 
-- :seedling:	Atualmente estou estudando **React e TypeScript**
+- :seedling:	Atualmente estou estudando **MongoDB e PostgreSQL**
 - :handshake: Estou a busca de uma oportunidade para iniciar carreira em **Desenvolvimento Web**
 - :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **HTML/CSS**, **JS**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
 - :email: Como me **contatar**:
