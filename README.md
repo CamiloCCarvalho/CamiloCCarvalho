@@ -7,13 +7,11 @@
 <h1 align="center">Camilo Costa de Carvalho</h1>
 <h3 align="center"> FullStack Javascript - Em formação</h3>
 
-<br>
-
-- :seedling:	Atualmente estou estudando **MongoDB e PostgreSQL**
-- :handshake: Estou a busca de uma oportunidade para iniciar carreira em **Desenvolvimento Web**
-- :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **HTML/CSS**, **JS**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
-- :email: Como me **contatar**:
-  - **Pagina Pessoal:** www.camilodev.vercel.app
+- :seedling:	Estudando Banco de Dados **MongoDB e PostgreSQL**
+- :handshake: Busco uma oportunidade para iniciar carreira em **Programação**
+- :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **React**, **JS/TS**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
+- :email:**Contato:**:
+  - **Site Pessoal:** www.camilodev.vercel.app
   - **Email**: camilo.costa1993@gmail.com
   - **Whatsapp**: (12) 98290-3495
 - :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
@@ -74,72 +72,54 @@
 
 <h3>Meus Conhecimentos:</h3>
 
-<p align="justify">Este paragrafo tem por objetivo Listar de forma simplificada alguns conhecimentos que eu possuo</p>
+<p align="justify">Este paragrafo tem por objetivo Listar de forma ampliada minhas habilidades</p>
 
-<h4>JavaScript ES6+</h4>
+<h4>Front-End</h4>
 
-- [x] Interpolação
-- [x] Spread
-- [x] Rest Param
-- [x] Desestruturação por associação
-- [x] Arrow Functions
-- [x] Hoisting
-- [x] ES Modules
+- [x] HTML 5
+- [x] CSS 3
+- [x] SASS
+- [x] JavaScript
+- [x] JavaScript ES6+
+- [x] APIs Rest
+- [x] WebPack
+- [x] Babel
 
-<h4>HTML 5</h4>
 
-- [x] SEO
-- [x] DOM
-- [x] Boas Praticas
+<h4>Back-End</h4>
 
-<h4>CSS 3</h4>
+- [x] Node
+- [x] Express
+- [x] Middlewares
+- [x] Nodemon
+- [x] Postman
+- [ ] Others
 
-- [x] FlexBox
-- [x] GridLayout
-- [x] Media Queryies
-- [x] Responsividade
-- [x] Mobile First
-- [ ] KeyFrames
+<h4>Banco de Dados</h4>
 
-<h4>SASS/SCSS</h4>
+- [ ] MongoDB
+- [ ] PostgreSQL
 
-- [x] Variables
-- [x] Mixins
-- [x] Partials
-- [x] Extends
 
-<h4>FRAMEWORKS</h4>
+<h4>FrameWorks</h4>
 
 - [x] BootStrap
 - [x] Bulma
-- [ ] PostMan
-- [ ] ExpressJs
+- [x] React
+- [ ] React Native
+- [ ] Next
+- [ ] Vue
 
-<h4>LIBRARYS E TOOLS</h4>
 
+<h4>Ferramentas</h4>
+
+- [x] Vite
 - [x] Npm
-- [x] Node.js
-- [x] Babel.js
-- [x] Webpack
-- [ ] Sequelize
-- [ ] Figma
-
-<h4>React Basic</h4>
-
-- [x] Components
-- [x] Hooks
-- [x] State
-- [x] LifeCycle
-- [x] Routes
-- [ ] API context
-- [ ] Others
-
-<h4>Others</h4>
-
-- [x] TypeScript
-- [ ] MongoDB
-- [ ] Electron
-- [ ] Dominar o Mundo
+- [x] DevTools
+- [x] Git
+- [x] GitHub
+- [x] Vercel
+- [ ] figma
 
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
