@@ -17,7 +17,7 @@
 - :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
 </br>
 
-### Linguagens | Stacks | Ferramentas:
+### Stacks | Ferramentas:
 
 <a href="https://reactjs.org/">
  <img alt="React" src="https://user-images.githubusercontent.com/106208340/199318462-58be3b04-8c48-488f-b8c3-384afc04bfdc.png"> 
@@ -39,9 +39,6 @@
 </a>
 <a href="https://getbootstrap.com/">
  <img alt="BootStrap" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
-</a>
-<a href="https://www.npmjs.com/">
- <img alt="Npm" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/npm.png"> 
 </a>
 <a href="https://nodejs.org/pt-br/">
  <img alt="Node" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
@@ -90,12 +87,13 @@
 - [x] Middlewares
 - [x] Nodemon
 - [x] Postman
+- [x] Sequelize
 - [ ] Others
 
 <h4>Banco de Dados</h4>
 
 - [ ] MongoDB
-- [ ] PostgreSQL
+- [x] PostgreSQL
 
 
 <h4>FrameWorks</h4>
