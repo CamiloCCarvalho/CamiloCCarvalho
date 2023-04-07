@@ -46,11 +46,8 @@
 <a href="https://nodejs.org/pt-br/">
  <img alt="Node" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
 </a>
-<a href="https://babeljs.io/">
- <img alt="Babel" width="56" height="56" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg"> 
-</a>
-<a href="https://webpack.js.org/">
- <img alt="WebPack" src="https://img.icons8.com/color/48/000000/webpack.png"> 
+<a href="https://www.postgresql.org/">
+ <img alt="PostgreSQL" src="https://img.icons8.com/color/48/null/postgreesql.png"> 
 </a>
 <a href="https://git-scm.com/">
  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"> 
