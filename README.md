@@ -55,7 +55,9 @@
 <a href="https://bulma.io/">
  <img alt="Bulma" height="40" src="https://github.com/CamiloCCarvalho/my-landing-page/blob/master/public/bulma-icon.png"> 
 </a>
-
+<a href="https://www.mongodb.com/">
+<img alt="MongoDB" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+</a>
 
 
 
