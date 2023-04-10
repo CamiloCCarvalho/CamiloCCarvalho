@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> FullStack Javascript - Em formação</h3>
+<h3 align="center"> FullStack Javascript </h3>
 
 - :seedling:	Estudando Banco de Dados **MongoDB e PostgreSQL**
 - :handshake: Busco uma oportunidade para iniciar carreira em **Programação**
@@ -88,7 +88,7 @@
 - [x] Nodemon
 - [x] Postman
 - [x] Sequelize
-- [ ] Others
+- [x] Others
 
 <h4>Banco de Dados</h4>
 
@@ -114,6 +114,7 @@
 - [x] Git
 - [x] GitHub
 - [x] Vercel
+- [x] Beekeeper
 - [ ] figma
 
 <!---
