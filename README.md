@@ -94,7 +94,7 @@
 
 <h4>Banco de Dados</h4>
 
-- [ ] MongoDB
+- [x] MongoDB
 - [x] PostgreSQL
 
 
@@ -106,6 +106,7 @@
 - [ ] React Native
 - [ ] Next
 - [ ] Vue
+- [ ] React Native
 
 
 <h4>Ferramentas</h4>
@@ -117,6 +118,7 @@
 - [x] GitHub
 - [x] Vercel
 - [x] Beekeeper
+- [x] Mongo Compass
 - [ ] figma
 
 <!---
