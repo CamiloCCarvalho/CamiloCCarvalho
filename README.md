@@ -66,61 +66,6 @@
 </br>
 </br>
 
-<h3>Meus Conhecimentos:</h3>
-
-<p align="justify">Este paragrafo tem por objetivo Listar de forma ampliada minhas habilidades</p>
-
-<h4>Front-End</h4>
-
-- [x] HTML 5
-- [x] CSS 3
-- [x] SASS
-- [x] JavaScript
-- [x] JavaScript ES6+
-- [x] APIs Rest
-- [x] WebPack
-- [x] Babel
-
-
-<h4>Back-End</h4>
-
-- [x] Node
-- [x] Express
-- [x] Middlewares
-- [x] Nodemon
-- [x] Postman
-- [x] Sequelize
-- [x] Others
-
-<h4>Banco de Dados</h4>
-
-- [x] MongoDB
-- [x] PostgreSQL
-
-
-<h4>FrameWorks</h4>
-
-- [x] BootStrap
-- [x] Bulma
-- [x] React
-- [ ] React Native
-- [ ] Next
-- [ ] Vue
-- [ ] React Native
-
-
-<h4>Ferramentas</h4>
-
-- [x] Vite
-- [x] Npm
-- [x] DevTools
-- [x] Git
-- [x] GitHub
-- [x] Vercel
-- [x] Beekeeper
-- [x] Mongo Compass
-- [ ] figma
-
 <!---
 CamiloCCarvalho/CamiloCCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
