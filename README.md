@@ -7,7 +7,7 @@
 <h1 align="center">Camilo Costa de Carvalho</h1>
 <h3 align="center"> FullStack Javascript </h3>
 
-- :seedling:	Estudando Banco de Dados **Sequelize + MongoDB**
+- :seedling:	Estudando RPA - Processo de Automação com **Python e UIPath**
 - :handshake: Busco uma oportunidade para iniciar carreira em **Programação**
 - :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web** com **React**, **JS/TS**, **Responsividade**. E também sobre **Games, Desenhos e Tattoos**
 - :email:**Contato:**:
