@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> Front-End Developer </h3>
+<h3 align="center"> Front-End / RPA - Developer </h3>
 
 - :seedling:	Estudando RPA - Processo de Automação com **Python e BotCity**
 - :handshake: Busco uma oportunidade para iniciar carreira em **Programação**
