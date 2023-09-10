@@ -5,15 +5,18 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> RPA Developer (Python | BotCity) | FrontEnd (JS | TS) </h3>
+<h3 align="center"> RPA Dev. (Python | BotCity) <br/> FrontEnd Dev. (JS | TS) </h3>
 
-- :seedling:	Estudando Hiper Automação e o uso de Machine Learning e IA no processo.
-- :handshake: Recente transição de carreira, agora atuando com tecnologia na Tria Software
-- :speech_balloon: Pergunte-me sobre: **Desenvolvimento Web**, **Automação de Processos Robótico**. E também sobre **Games, Desenhos e Teorias da Tecnologia no futuro**
+- :seedling:	Estudando **Hiper Automação** e o uso de **Machine Learning e IA** no processo.
+- :handshake: Recente transição de carreira, agora atuando com desenvolvimento e sustenação de RPA na Tria Software
+- :speech_balloon: Pergunte-me sobre: **RPA**, **Desenvolvimento Web**. E também sobre **Games, Desenhos e Teorias da Tecnologia no futuro**
+<br/>
+
 - :email:**Contato:**:
   - **Site Pessoal:** www.camilodev.com.br
   - **Email**: camilo.costa1993@gmail.com
-- :page_facing_up:	Mais sobre minhas **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
+  - **Experiencias Profissionais**: <a href="https://www.linkedin.com/in/camilocostac/">LinkedIn</a>
+
 </br>
 
 
