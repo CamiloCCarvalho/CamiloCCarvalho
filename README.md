@@ -25,47 +25,77 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloccarvalho&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-### Stacks | Ferramentas:
-
-<a href="https://reactjs.org/">
- <img alt="React" src="https://user-images.githubusercontent.com/106208340/199318462-58be3b04-8c48-488f-b8c3-384afc04bfdc.png"> 
+### Linguagens:
+<a href="https://www.python.com/">
+ <img alt="PYTHON" width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </a>
 <a href="https://www.javascript.com/">
- <img alt="JavaScript" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+ <img alt="JAVASCRIPT" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </a>
 <a href="https://www.typescriptlang.org/">
- <img alt="TypeScript" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
+ <img alt="TYPESCRIPT" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
 </a>
+<br/>
+
+### Marcação:
 <a href="https://www.w3schools.com/html/">
- <img alt="Html" src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
+ <img alt="HTML" src="https://img.icons8.com/fluency/48/000000/html-5.png"> 
 </a>
+<a href="https://www.markdownguide.org/">
+ <img alt="MARKDOWN" width="40" height="40" src="https://img.icons8.com/ios-filled/50/markdown.png" alt="markdown"/>
+</a>
+<br/>
+
+### Estilização:
 <a href="https://www.w3schools.com/css/">
- <img alt="Css" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
+ <img alt="CSS" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/css3.png"> 
 </a>
 <a href="https://sass-lang.com/">
- <img alt="Sass" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
+ <img alt="SASS" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/sass.png"> 
 </a>
 <a href="https://getbootstrap.com/">
- <img alt="BootStrap" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
+ <img alt="BOOTSTRAP" widht="48px" heigth="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
 </a>
-<a href="https://nodejs.org/pt-br/">
- <img alt="Node" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
-</a>
-<a href="https://www.postgresql.org/">
- <img alt="PostgreSQL" src="https://img.icons8.com/color/48/null/postgreesql.png"> 
-</a>
-<a href="https://git-scm.com/">
- <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"> 
-</a>
-<a href="https://github.com/">
- <img alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"> 
+<a href="https://styled-components.com/">
+ <img alt="STYLED COMPONENTS" width="48" height="48" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/>
 </a>
 <a href="https://bulma.io/">
- <img alt="Bulma" height="40" src="https://github.com/CamiloCCarvalho/my-landing-page/blob/master/public/bulma-icon.png"> 
+ <img alt="BULMA" height="40" src="https://github.com/CamiloCCarvalho/my-landing-page/blob/master/public/bulma-icon.png"> 
+</a>
+<br/>
+
+### Frameworks:
+<a href="https://pt-br.botcity.dev/">
+ <img alt="BOTCITY" width="40px" heigth="40px" src="https://documentation.botcity.dev/assets/logo.png"> 
+</a>
+<a href="https://nodejs.org/pt-br/">
+ <img alt="NODE" widht="48px" heigth="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png"> 
+</a>
+<a href="https://reactjs.org/">
+ <img alt="REACT" src="https://user-images.githubusercontent.com/106208340/199318462-58be3b04-8c48-488f-b8c3-384afc04bfdc.png"> 
+</a>
+<br/>
+
+### Bancos:
+<a href="https://www.postgresql.org/">
+ <img alt="POSTGRESQL" src="https://img.icons8.com/color/48/null/postgreesql.png"> 
 </a>
 <a href="https://www.mongodb.com/">
-<img alt="MongoDB" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+<img alt="MONGODB" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 </a>
+<br/>
+
+### Outras Ferramentas:
+<a href="https://git-scm.com/">
+ <img alt="GIT" src="https://img.icons8.com/color/48/000000/git.png"> 
+</a>
+<a href="https://github.com/">
+ <img alt="GITHUB" src="https://img.icons8.com/color/48/000000/github--v1.png"> 
+</a>
+<a href="https://azure.microsoft.com/pt-br/products/devops">
+ <img alt="AZURE DEVOPS" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png" alt="external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo"/>
+</a>
+
 
 
 
