@@ -8,7 +8,7 @@
 <h3 align="center"> RPA Dev. (Python | BotCity) <br/> FrontEnd Dev. (JS | TS) </h3>
 
 - :seedling:	Estudando **Hiper Automação**
-- :handshake: Recente transição de carreira, agora atuando com desenvolvimento e sustenação de RPA na Tria Software
+- :handshake: Desenvolvedor RPA (Python) - Tria Software
 - :speech_balloon: Pergunte-me sobre: **RPA**, **Desenvolvimento Web**. E também sobre **Games, Desenhos e Teorias da Tecnologia no futuro**
 <br/>
 
