@@ -5,10 +5,10 @@
 </p>
 
 <h1 align="center">Camilo Costa de Carvalho</h1>
-<h3 align="center"> RPA Dev. (Python | BotCity) <br/> FrontEnd Dev. (JS | TS) </h3>
+<h3 align="center"> Desenvolvedor RPA</h3>
 
-- :seedling:	Estudando **Hiper Automação**
-- :handshake: Desenvolvedor RPA (Python) - Tria Software
+- :seedling:	Estudando **RPA** e derivados
+- :handshake: Desenvolvedor RPA (Python | Botcity | Selenium) - Tria Software
 - :speech_balloon: Pergunte-me sobre: **RPA**, **Desenvolvimento Web**. E também sobre **Games, Desenhos e Teorias da Tecnologia no futuro**
 <br/>
 
