@@ -8,7 +8,7 @@
 <h3 align="center"> Desenvolvedor RPA</h3>
 
 - :seedling:	Estudando **RPA** e derivados
-- :handshake: Desenvolvedor RPA (Python | Botcity | Selenium) - Tria Software
+- :handshake: Python | Django | Flask | Botcity | Selenium
 - :speech_balloon: Pergunte-me sobre: **RPA**, **Desenvolvimento Web**. E também sobre **Games, Desenhos e Teorias da Tecnologia no futuro**
 <br/>
 
